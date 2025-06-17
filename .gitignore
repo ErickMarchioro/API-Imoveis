@@ -1,0 +1,30 @@
+node_modules/
+npm-debug.log
+.env
+.DS_Store # macOS
+*.iml # IntelliJ IDEA
+
+logs/
+*.log
+
+dist/
+build/
+tmp/
+
+.vscode/       
+.idea/          
+*.sublime-project
+*.sublime-workspace
+
+jspm_packages/
+
+*.db
+*.sqlite
+*.sqlite3
+
+coverage/
+
+.cache/
+.project
+.settings/
+.classpath
